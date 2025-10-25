@@ -35,7 +35,6 @@
 📧 **Reach me at:** [aakarshs105@gmail.com](mailto:aakarshs105@gmail.com)
 
 ---
-<a href="https://linkedin.com/in/aakarsh-sharma17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakarsh-sharma17" height="30" width="40" /></a>
 ### 🛠️ Languages and Tools
 
 <p align="left">
